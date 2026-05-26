@@ -1,6 +1,6 @@
 timezone: America/Caracas
 
-send_hour: 0
+send_hour: 10
 
 events:
  - name: Solar
