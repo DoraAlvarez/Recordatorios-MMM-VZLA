@@ -1,0 +1,10 @@
+timezone: America/Caracas
+
+send_hour: 0
+
+events:
+  - name: Prueba
+    date: 2026-05-25
+    media_type: video
+    media_id: "CgACAgQAAxkBAAMNahUB4gntlvWr60UihZ3nxNBuYTEAAugCAAKcw71S_Ie6sTVX75Y7BA"
+    message: "¡Hola Mundo! Esto es una prueba de que el bot funciona, si leiste todo esto eres un mentepollo 🤩 PD: MAMAMOO TOUR PA LATAM 2027 🙌🏻"
