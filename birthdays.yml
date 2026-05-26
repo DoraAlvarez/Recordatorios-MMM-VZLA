@@ -3,8 +3,68 @@ timezone: America/Caracas
 send_hour: 0
 
 events:
-  - name: Prueba
-    date: 2026-05-25
+ - name: Solar
+    date: 02-21
     media_type: video
-    media_id: "CgACAgQAAxkBAAMNahUB4gntlvWr60UihZ3nxNBuYTEAAugCAAKcw71S_Ie6sTVX75Y7BA"
-    message: "¡Hola Mundo! Esto es una prueba de que el bot funciona, si leiste todo esto eres un mentepollo 🤩 PD: MAMAMOO TOUR PA LATAM 2027 🙌🏻"
+    media_id: "CgACAgQAAxkBAAMKahUBdktrKkVnM7Iub5mstAHOoPEAAkoDAAJpwUVSv4DV3iuOihw7BA"
+    message: "¡Feliz Cumpleaños para nuestro solecito! ¡Hoy cumple nuestra querida, excéntrica y workholic Solar-inmida! 🥳🥳"
+
+- name: Wheein
+    date: 04-17
+    media_type: video
+    media_id: "CgACAgQAAxkBAAMOahUbxgZWsuRf06vtQOdh8RyH4MMAAvICAAKSjpRSmK1EsHF-UjQ7BA"
+    message: "¡Feliz Cumpleaños para la más salada! Hoy cumple nuestra querida Juina Gabriela, tqm Wheein, hazte una limpia 🥳🥳"
+
+    - name: Dora
+    date: 05-20
+    media_type: video
+    media_id: "CgACAgQAAxkBAAMEahUBG6HUi20JeMC6R0O0mFkpKaMAAq4EAAIPCCVSB_CCF1maeAM7BA"
+    message: "¡Feliz Cumpleaños para el oso 🐻✨! Hoy cumple el osito del grupo 🥳🥳"
+
+ - name: Aniversario de MMM
+    date: 06-18
+    media_type: video
+    media_id: "CgACAgEAAxkBAAMHahUBT0U2fxE3SenPDEzN_S-Az6IAAk4CAAIFp4hHZ0FAGGztQWU7BA"
+    message: "¡Hoy es el aniversario de Mamamoo✨! Las amamos mucho reinas 😭🥳"
+
+ - name: Johy
+    date: 06-22
+    media_type: video
+    media_id: "CgACAgQAAxkBAAMDahUBE8XYohjUYaDlFzuhWoyZvCwAAhIDAAKOorRS5_EkWGRwmP47BA"
+    message: "¡Feliz Cumpleaños Johy✨! Hoy cumple nuestra querida y aventurera Johy, ¡ánimo Johy! 🥳🥳"
+
+     - name: Hwasa
+    date: 07-23
+    media_type: video
+    media_id: "CgACAgQAAxkBAAMPahUc4pvWCtREAAHG0kZmaA_N1VuFAAItAwACsQgNUwRiI1MnQKLoOwQ"
+    message: "¡Feliz Cumpleaños para nuestra querida Hyejin✨! La reina de la procrastinación, la que le gustan los mayores y carga tremendo flow, tqm mucho Hwasa 🥳🥳"
+
+    - name: Escarly
+    date: 08-14
+    media_type: video
+    media_id: "CgACAgQAAxkBAAMLahUBs4znKat62spG1Yn6zWcuJD0AAwMAAppQDFNjFbvu6s5YwTsE"
+    message: "¡Feliz Cumpleaños Escarsy✨! Hoy cumple nuestra querida florecita escarlata, ¡Tqm Escarsy! 🥳🥳"
+
+    - name: Oswi
+    date: 10-13
+    media_type: video
+    media_id: "CgACAgQAAxkBAAMGahUBSM8mq1chzdkXFQJWnMxgfX8AAuMCAAKWZr1TzLkKdhtOkUw7BA"
+    message: "¡Feliz Cumpleaños Oswi✨! Ostia, chavales, hoy cumple nuestro líder, a que han flipado, ¿ah? ¡Increidibleshion! Fuera de bromas, te queremos, Oswi 🥳🥳"
+
+    - name: Yorman
+    date: 11-04
+    media_type: video
+    media_id: "CgACAgQAAxkBAAMIahUBV8XpBt68B9fY_o1K8NRLAkgAAv0CAAJSLkxSHb4yfylHdlU7BA"
+    message: "¡Feliz Cumpleaños Yorman✨! Hoy cumple nuestro querido Yorman, el Macgyver del grupo, todo lo encuentra, todo lo soluciona. Hoy le encontramos este bonito recordatorio para su cumpleaños 🥳🥳"
+
+     - name: Lina
+    date: 12-22
+    media_type: video
+    media_id: "CgACAgQAAxkBAAMJahUBb1UQyV2cUzGR-BTpcx3Jgu0AAnYDAAIf80xQNmzwdQW8I4E7BA"
+    message: "¡Feliz Cumpleaños Lina✨! Hoy cumple nuestra querida Lina, puede que no escriba por el grupo, es solo que ella se le olvida y su internet no colabora, pero la tenemos en nuestro corazones 🥳🥳"
+
+     - name: Moonbyul
+    date: 12-22
+    media_type: video
+    media_id: "CgACAgEAAxkBAAMFahUBJkqYtPqI91OEWa0AAehAX1XCAAJtAgAC6VSZRZvB9Umyahf6OwQ"
+    message: "¡Feliz Cumpleaños Byulyi✨! Hoy cumple nuestro querido hámster, le roba las pantaletas a las chicas pero su corazón tiene solo una dueña aunque a las mujeres le duela. ¡Feliz cumpleaños, Byul! 🥳🥳"
