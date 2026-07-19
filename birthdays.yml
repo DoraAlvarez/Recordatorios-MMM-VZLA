@@ -22,7 +22,7 @@ events:
     message: "¡Feliz Cumpleaños para el oso 🐻✨! Hoy cumple el osito del grupo 🥳🥳"
 
   - name: Prueba
-    date: 05-26
+    date: 07-19
     media_type: video
     media_id: "CgACAgQAAxkBAAMSahUe3UWEgdUghHG_NJDsMcRZmD0AAkEDAAKQfQRTvaa_H0kr-147BA"
     message: "Esto es una prueba programada, para ver que todo corra bien y que no nos cierren el bot por inactividad. Keep calm ladies and Yorman 🤠"
